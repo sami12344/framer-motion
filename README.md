@@ -3,16 +3,41 @@
 <h1 align='center'><strong>Framer Motion</strong></h1>
 <p align='center'>Framer Motion is a versatile animation library for React that empowers developers to effortlessly create captivating and polished user interfaces with fluid animations and interactive components.</p>
 
-## Table of Contents
+<div align="center">
+  
+  
+  <style>
+    table {
+      table-layout: fixed;
+      width: 100%;
+      border-collapse: collapse;
+    }
 
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Documentation](#documentation)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
+    td {
+      font-size: 16px;
+      white-space: nowrap;
+      padding: 8px 12px;
+      text-align: center;
+    }
+  </style>
+
+  <table>
+    <tr>
+      <td><a href="#introduction">Introduction</a></td>
+      <td><a href="#installation">Installation</a></td>
+      <td><a href="#usage">Usage</a></td>
+      <td><a href="#features">Features</a></td>
+    </tr>
+    <tr>
+      <td><a href="#documentation">Documentation</a></td>
+      <td><a href="#examples">Examples</a></td>
+      <td><a href="#contributing">Contributing</a></td>
+      <td><a href="#license">License</a></td>
+    </tr>
+  </table>
+</div>
+
+
 
 ## Introduction
 
