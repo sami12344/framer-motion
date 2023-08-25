@@ -5,30 +5,16 @@
 
 <div align="center">
   
-  
-  <style>
-    table {
-      table-layout: fixed;
-      width: 100%;
-      border-collapse: collapse;
-    }
 
-    td {
-      font-size: 16px;
-      white-space: nowrap;
-      padding: 8px 12px;
-      text-align: center;
-    }
-  </style>
 
   <table>
-    <tr>
-      <td><a href="#introduction">Introduction</a></td>
+    <tr align='center'>
+      <td ><a href="#introduction">Introduction</a></td>
       <td><a href="#installation">Installation</a></td>
       <td><a href="#usage">Usage</a></td>
       <td><a href="#features">Features</a></td>
     </tr>
-    <tr>
+    <tr align='center'>
       <td><a href="#documentation">Documentation</a></td>
       <td><a href="#examples">Examples</a></td>
       <td><a href="#contributing">Contributing</a></td>
