@@ -1,0 +1,15 @@
+
+.box-container{
+ width: 100%;
+ height: 100vh;
+ background: white;
+display: flex;
+/* justify-content: center; */
+align-items: center;
+overflow-x: hidden;
+}
+.box{
+ width: 10rem;
+ height: 10rem;
+ background: red;
+}
