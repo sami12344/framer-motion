@@ -7,9 +7,22 @@ display: flex;
 /* justify-content: center; */
 align-items: center;
 overflow-x: hidden;
+padding: 1rem;
 }
 .box{
- width: 10rem;
- height: 10rem;
+ width: 25rem;
+ height:25rem;
  background: red;
+ display: flex;
+
+ align-items: center;
+ justify-content: center;
+}
+.boxItem{
+ width: 0.5rem;
+ height: 0.5rem;
+ background-color: white;
+ padding: 2rem;
+ list-style: none;
+ margin: 0.5rem;
 }
